@@ -22,11 +22,11 @@ Projekt I ja II raames lahendatakse roboti teostamiseks vajalikud ülesanded ük
 - lisaülesandena on optimaalse lahenduskäigu animeerimise võimalus mistahes olekus tuvastatud 3 x 3 x 3 Rubiku kuubikule.
 
 ## Projekti ajakava
-Veebruar 2016 - Kavandi kinnitamine ja esitamine
-Märts 2016 - Esimene kuubiku lahendamise algortim JavaFX-ga, otsustada millist lahendust värvide tuvastamiseks kasutatakse
-Aprill 2016 - Pildituvastusprogramm töötab
-Mai 2016 - Esimene töötav robot on olemas
-Projekt II - Roboti töötamise kiiruse optimeerimine
+- Veebruar 2016 - Kavandi kinnitamine ja esitamine
+- Märts 2016 - Esimene kuubiku lahendamise algortim JavaFX-ga, otsustada millist lahendust värvide tuvastamiseks kasutatakse
+- Aprill 2016 - Pildituvastusprogramm töötab
+- Mai 2016 - Esimene töötav robot on olemas
+- Projekt II - Roboti töötamise kiiruse optimeerimine
 
 ## Projekti teostamiseks vajalikud vahendid
 - Lego Mindstorm (kaameraga)
