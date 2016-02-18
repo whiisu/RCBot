@@ -1,11 +1,12 @@
 # Projekt I ja II kavand
+
 ## Meeskonna koosseis ja tööülesanded  
 
 | Nimi  | Tööülesanded  | allkiri  |
 |---|---|---|
-| Grigori Palamchuk  | Lego Mindstormil põhineva protoüübi loomine.  | / allkirjastatud digitaalselt /  |
-| Kaia Ernits  | ??? Ruubiku-kuubiku lahendamise algoritmi loomine. Muud ülesanded. ???  | / allkirjastatud digitaalselt /  |
-| Andrus Seiman  | ??? Pildituvastuse algoritmide loomine. Muud ülesanded. ???  | / allkirjastatud digitaalselt /  |
+| Grigori Palamarchuk  | Lego Mindstormil põhineva protoüübi ja algoritmi loomine.  | / allkirjastatud digitaalselt /  |
+| Kaia Ernits  | Dokumentatsioon, Prototüübi ja algoritmide testimine ning täiendamine  | / allkirjastatud digitaalselt /  |
+| Andrus Seiman  | Pildituvastuse algoritmide loomine ja testimine  | / allkirjastatud digitaalselt /  |
 
 ## Projekti teema
 Robootika. Ruubku-kuubiku mõistatust lahendava roboti loomine.
