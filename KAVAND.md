@@ -35,6 +35,9 @@ Projekt II - Roboti töötamise kiiruse optimeerimine
 
 ## Juhendaja
 __Nimi:__  Lauri Võsandi
+
 __Tel.:__  +37253329412
+
 __e-post:__  lauri.vosandi@itcollege.ee
+
 __allkiri:__ / allkirjastatud digitaalselt /
