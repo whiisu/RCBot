@@ -34,7 +34,7 @@ Projekt II - Roboti töötamise kiiruse optimeerimine
 - 3 Rubiku kuubikut (3 x 3 x 3), WCA (World Cube Association) standarditele vastav
 
 ## Juhendaja
--__Nimi:__  Lauri Võsandi
--__Tel.:__  +37253329412
--__e-post:__  lauri.vosandi@itcollege.ee
--__allkiri:__ / allkirjastatud digitaalselt /
+- __Nimi:__  Lauri Võsandi
+- __Tel.:__  +37253329412
+- __e-post:__  lauri.vosandi@itcollege.ee
+- __allkiri:__ / allkirjastatud digitaalselt /
