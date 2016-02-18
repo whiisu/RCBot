@@ -12,11 +12,12 @@
 Robootika. Ruubku-kuubiku mõistatust lahendava roboti loomine.
 
 
-## Projekti eesmärk, rakendatavus ja väljundõ
-Projekti eesmärgiks on luua robot, mis on võimeline iseseisvalt lahendama ruubiku-kuubiku kuubiku mõistatust. Projekt I raames lahendatakse roboti teostamiseks vajalikud ülesanded ükshaaval:
+## Projekti eesmärk, rakendatavus ja väljund
+Projekti eesmärgiks on luua robot, mis on võimeline iseseisvalt lahendama 3 x 3 ruubiku-kuubiku mõistatust. Projekt I raames lahendatakse roboti teostamiseks vajalikud ülesanded ükshaaval:
 - luuakse virtuaalne ruubiku-kuubiku mõistatus koos seda lahendava algoritmiga,
-- tutvutakse pildituvastus meetoditega ja luuakse pildituvastusalgoritmid, mis on võimelised tuvastama ruubiku-kuubiku konditsiooni,
-- alustatkse Lego Mindstorm tehnoloogial baseeruva roboti prototüübi loomist.
+- tutvutakse pildituvastusmeetoditega ja luuakse pildituvastusalgoritmid, mis on võimelised tuvastama 3 x 3 ruubiku-kuubiku värvide asetust,
+- alustatkse Lego Mindstorm tehnoloogial baseeruva roboti prototüübi loomist,
+- optimeeritakse lahendusprotsessi kiirus.
 
 ## Projekti ajakava
 Märts 2016 - 
